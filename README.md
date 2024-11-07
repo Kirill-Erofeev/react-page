@@ -1,2 +1,2 @@
 # Страница на реакте, наглядно демонстрирующая работу хуков 
-![Без имени](https://github.com/user-attachments/assets/e62b2904-3e18-41cd-b6c7-f8e166500d6d)
+![Без имени 671](https://github.com/user-attachments/assets/c3555849-d294-4c5a-b086-917803b2094c)
